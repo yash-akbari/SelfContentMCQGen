@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the first step of the CRISP-DM process?,a: Define the problem | b: Gather data | c: Clean data | d: Analyze data,a
+Which of the following is not a type of machine learning algorithm?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Natural language processing,d
+What is the most common type of data used in machine learning?,a: Numerical data | b: Categorical data | c: Text data | d: Images,a
+Which of the following is not a metric used to evaluate the performance of a machine learning model?,a: Accuracy | b: Precision | c: Recall | d: Mean squared error,d
+Which of the following is not a common challenge faced when working with machine learning data?,a: Bias | b: Variance | c: Overfitting | d: Underfitting,d

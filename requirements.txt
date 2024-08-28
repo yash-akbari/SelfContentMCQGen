@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-community
+langchain_google_genai
+streamlit
+python-dotenv
+PyPDF2
+jupyter
+ipywidgets
+

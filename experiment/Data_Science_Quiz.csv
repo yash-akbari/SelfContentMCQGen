@@ -1,6 +1,16 @@
-MCQ,Choices,Correct
-What is the first step of the CRISP-DM process?,a: Define the problem | b: Gather data | c: Clean data | d: Analyze data,a
-Which of the following is not a type of machine learning algorithm?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Natural language processing,d
-What is the most common type of data used in machine learning?,a: Numerical data | b: Categorical data | c: Text data | d: Images,a
-Which of the following is not a metric used to evaluate the performance of a machine learning model?,a: Accuracy | b: Precision | c: Recall | d: Mean squared error,d
-Which of the following is not a common challenge faced when working with machine learning data?,a: Bias | b: Variance | c: Overfitting | d: Underfitting,d
+Question Type,Question,Choices,Correct Answer
+Multiple Choice,What motivated the villagers of Taj Nagar to build their own railway station?,a: Lack of funds from the railway authorities. | b: Improved access to transportation and education. | c: Increased tourism and economic development. | d: All of the above.,d
+Multiple Choice,What is the significance of Mera Gao Power's (MGP) approach to providing electricity in Sitapur?,a: It reduces the environmental impact through renewable energy. | b: It provides affordable and reliable power to rural households. | c: It promotes community participation in electrification projects. | d: All of the above.,d
+Multiple Choice,What is a key focus of the women's unit established at the Palakkad District Public Library?,a: Facilitating social interactions and community building. | b: Providing resources for women's education and empowerment. | c: Organizing cultural and recreational activities. | d: Advocating for gender equality in the workforce.,b
+Multiple Choice,What is a unique aspect of the railway station built by the residents of Taj Nagar?,a: It caters exclusively to local commuters. | b: It was built entirely with private funding. | c: It has been recognized as a UNESCO World Heritage Site. | d: It uses innovative eco-friendly technologies.,b
+Multiple Choice,What is a primary advantage of using solar power as a source of lighting in rural areas?,a: Reduced operating costs compared to fossil fuels. | b: Improved air quality by reducing greenhouse gas emissions. | c: Increased lifespan and durability compared to conventional bulbs. | d: Enhanced safety and reliability due to remote monitoring.,b
+Short Note,Discuss the main challenges faced by the residents of Taj Nagar in their endeavor to build their own railway station.,,
+Short Note,Explain the innovative solutions and community involvement involved in Mera Gao Power's (MGP) electrification efforts in Sitapur.,,
+Short Note,Analyze the role of the Palakkad District Public Library in promoting women's empowerment through its women's unit.,,
+Short Note,Examine the broader implications of the self-sufficient approach taken by the villagers of Taj Nagar in building their own railway station.,,
+Short Note,"Evaluate the environmental and socio-economic benefits of utilizing solar power for rural communities, as demonstrated by the case study of Sitapur.",,
+Fill in the Blank,"The construction of the Taj Nagar railway station was funded entirely by contributions from the villagers, amounting to a total of ______ rupees.",,Twenty-one lakh
+Fill in the Blank,Mera Gao Power's (MGP) solar power mini-grids provide each paying household with ______ LED lights and a mobile charging point.,,Two
+Fill in the Blank,The Palakkad District Public Library's women's unit has initiated the creation of separate ______ for women to promote a more inclusive reading environment.,,Reading rooms
+Fill in the Blank,The railway station in Taj Nagar is a notable example of a community-led initiative where the residents raised funds and built the station with ______ resources.,,Their own
+Fill in the Blank,"On January 7, ______, the railway station in Taj Nagar, built entirely with private funding, officially commenced operations.",,20107
